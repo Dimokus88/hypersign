@@ -16,12 +16,13 @@ services:
       - "gitrep=https://github.com/hypersign-protocol/hid-node.git"
       - "gitfold=hid-node"
       - "SHIFT=4000"
-      - "SNAP_RPC=https://rpc-t.hypersign.nodestake.top:443"  
+      - "SNAP_RPC=https://rpc-t.hypersign.nodestake.top:443" 
+      - "TOKEN="
     command:
       - "bash"
       - "-c"
     args:
-      - 'curl -s https://raw.githubusercontent.com/Dimokus88/universe/main/alphatest/node.sh | bash '
+      - 'curl -s https://raw.githubusercontent.com/Dimokus88/universe/main/node.sh | bash '
     expose:
       - port: 80
         as: 80
