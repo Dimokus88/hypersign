@@ -48,6 +48,11 @@ If you don't have a `priv_validator_key.json` or want to know how to get a direc
 
 > *If you want to deploy an **RPC** node without a validator key, leave `LINK_KEY` blank or remove this line altogether. The node will run on the generated `priv_validator_key.json`.
 
+___
+
+
+##### Activate Telegram bot
+
 The assembly **supports** the function of a brief report on the **status** of the server, **state** of the node, as well as the **network explorer** function via the Telegram messenger. To activate these functions, you just need to create a bot ([following this instruction](https://github.com/Dimokus88/guides/blob/main/bot/README_BOT_EN.md)) and add your **token** to the `TOKEN variable ` of the `deploy.yml` file.
 
 <div align="center">
@@ -55,7 +60,10 @@ The assembly **supports** the function of a brief report on the **status** of th
 https://user-images.githubusercontent.com/23629420/193661354-ff80bb0a-2478-4995-bf12-b245b5f09963.mp4
 
 </div>
-  
+ 
+___
+
+ 
 At this stage, the node is deployed. Navigating to the forwarded port **26657** in the `LEASES` tab, the `websocket` of the node will open, where its up-to-date information will be available. If you need to **create** a validator on your `priv_validator_key.json` go to the next step.
 
 <div align="center">
@@ -121,6 +129,10 @@ ___
 
 > *Если вы хотите развернуть **RPC** ноду без ключа валидатора - оставьте `LINK_KEY` пустым или вовсе удалите эту строку. Нода запустится на сгенерированном `priv_validator_key.json`. 
 
+___
+
+##### Активация Telegram бота
+  
 В сборке **поддерживается** функция краткого отчета о **статусе** сервера, **состоянии** ноды, а также функция **эксплорера сети** через мессенджер Telegram. Для активации этих функций вам достаточно создать бота ([следуя этой инструкции](https://github.com/Dimokus88/guides/blob/main/bot/README_BOT_RU.md)) и добавить ваш **токен** в переменную `TOKEN` файла `deploy.yml`.
   
 <div align="center">
@@ -128,6 +140,9 @@ ___
 https://user-images.githubusercontent.com/23629420/193661354-ff80bb0a-2478-4995-bf12-b245b5f09963.mp4
   
 </div>
+
+___
+
   
 На данном этапе нода развернута . Перейдя на переадресованный порт **26657** во вкладке `LEASES` откроется `websocket` ноды, где будет доступна ее актуальная информация. Если вам нужно **создать** валидатора на вашем `priv_validator_key.json` перейдите к следующему пункту.
 
