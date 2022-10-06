@@ -1,13 +1,16 @@
 <div align="center">
   
-# Hypersign validator node on Akash Network
-# Нода валидатора сети Hypersign, развертка в Akash Network.
+# Hypersign validator node on Akash Network with Spheron.
+# Нода валидатора сети Hypersign, развертка в Akash Network с помощью Spheron.
   
 </div>
   
 <div align="center">
 
 <p align="center"><img src="https://user-images.githubusercontent.com/23629420/163564929-166f6a01-a6e2-4412-a4e9-40e54c821f05.png" width=70% </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/23629420/194322268-5b99071f-2c5f-4b0f-aed6-28f7521e55d8.png" width=20% </p>
+
+
 
 | [Akash Network](https://akash.network/) | [Forum Akash Network](https://forum.akash.network/) | 
 |:--:|:--:|
