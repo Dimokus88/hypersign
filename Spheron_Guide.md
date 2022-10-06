@@ -33,7 +33,7 @@ Before you start - subscribe to our news channels:
 
 <div align="center">
   
-[English version](https://github.com/Dimokus88/Hypersign/tree/main#english-version) | [Русская версия](https://github.com/Dimokus88/Hypersign/tree/main#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F) 
+[English version](https://github.com/Dimokus88/hypersign/blob/main/Spheron_Guide.md#english-version) | [Русская версия](https://github.com/Dimokus88/hypersign/blob/main/Spheron_Guide.md#%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F) 
  
 </div>
 
@@ -99,7 +99,7 @@ At this stage, the node is deployed, wait for synchronization.
 
 
   
-[Back to top](https://github.com/Dimokus88/Hypersign/blob/main/README.md#Hypersign-validator-node-on-akash-network)
+[Back to top](https://github.com/Dimokus88/hypersign/blob/main/Spheron_Guide.md#hypersign-validator-node-on-akash-network-with-spheron)
 
 **Thank you for using Akash Network!**
 ___
@@ -164,7 +164,7 @@ ___
 
 <p align="center"><img src="https://user-images.githubusercontent.com/23629420/194318809-3e59fc20-2513-456d-8091-9e1fedb35b44.png" width=70% </p>
   
-[К началу](https://github.com/Dimokus88/Hypersign/blob/main/README.md#Hypersign-validator-node-on-akash-network)
+[К началу](https://github.com/Dimokus88/hypersign/blob/main/Spheron_Guide.md#hypersign-validator-node-on-akash-network-with-spheron)
 
 **Спасибо что воспользовались Akash Network!**
 ___
