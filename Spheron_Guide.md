@@ -84,7 +84,7 @@ Specify the following variables:
   
 Click **Deploy**. It may take up to **5 minutes** to start a node and start synchronization.
   
-<p align="center"><img src="https://user-images.githubusercontent.com/23629420/194310897-2d447464-e175-489e-be07-eaf8384d71f7.png" width=70% </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/23629420/194317376-11481ff0-5bad-4def-a125-b2efcadaf7f1.png" width=70% </p>
 
 Navigating to the forwarded port **26657**, the `websocket` of the node will open in the logs, where its up-to-date information will be available.
   
@@ -147,7 +147,7 @@ ___
   
 Нажмите **Deploy**. Для запуска ноды и начала синхронизации может потребоваться **от 5 минут**.
   
-<p align="center"><img src="https://user-images.githubusercontent.com/23629420/194310897-2d447464-e175-489e-be07-eaf8384d71f7.png" width=70% </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/23629420/194317376-11481ff0-5bad-4def-a125-b2efcadaf7f1.png" width=70% </p>
 
 Перейдя на переадресованный порт **26657** в логах откроется `websocket` ноды, где будет доступна ее актуальная информация. 
   
