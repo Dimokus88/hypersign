@@ -70,9 +70,9 @@ Click **Next** and select the desired resources for your deployment:
 
 <p align="center"><img src="https://user-images.githubusercontent.com/23629420/194308760-9cb1bf90-a3b9-41d8-af90-047a19f00682.png" width=60% </p>
 
-Fill in the ports below:
+Open ports:
 
-  * open ports `80` - fixed **80**
+  * `80` - fixed **80**
   * `22` (for ssh connection) - **random**
   * `26656` (for p2p connections) - **random**
   * `26657` (for websocket) - **random**
@@ -133,9 +133,9 @@ ___
 
 <p align="center"><img src="https://user-images.githubusercontent.com/23629420/194308760-9cb1bf90-a3b9-41d8-af90-047a19f00682.png" width=60% </p>  
 
-Ниже заполните порты:
+Откройте порты:
 
-  * откройте порты `80` - фиксированный **80**
+  * `80` - фиксированный **80**
   * `22` (для подключения по ssh) - **рандом** 
   * `26656` (для p2p соединений)- **рандом**
   * `26657` (для вебсокета)- **рандом**
