@@ -92,6 +92,9 @@ Navigating to the forwarded port **26657**, the `websocket` of the node will ope
 
   
 At this stage, the node is deployed, wait for synchronization.
+<p align="center"><img src="https://user-images.githubusercontent.com/23629420/194318809-3e59fc20-2513-456d-8091-9e1fedb35b44.png" width=100% </p>
+
+
   
 [Back to top](https://github.com/Dimokus88/Hypersign/blob/main/README.md#Hypersign-validator-node-on-akash-network)
 
@@ -155,6 +158,8 @@ ___
 
   
 На данном этапе нода развернута, дождитесь синхронизации.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/23629420/194318809-3e59fc20-2513-456d-8091-9e1fedb35b44.png" width=100% </p>
   
 [К началу](https://github.com/Dimokus88/Hypersign/blob/main/README.md#Hypersign-validator-node-on-akash-network)
 
